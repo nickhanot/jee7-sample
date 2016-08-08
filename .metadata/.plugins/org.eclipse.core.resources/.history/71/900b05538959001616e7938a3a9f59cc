@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<div> lijst van personen:</div>
+		
+		<ul>
+		<c:forEach items="${myList}" var="item">
+		<li> person: ${item}
+
+		</ul>
+
+	
+	
+	</body>
+</html>

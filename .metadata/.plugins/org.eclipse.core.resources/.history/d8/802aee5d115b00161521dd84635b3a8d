@@ -1,0 +1,15 @@
+package com.realdolmen.course;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	int i=0;
+    	int j;
+        System.out.println( "Hello World!" );
+    }
+}

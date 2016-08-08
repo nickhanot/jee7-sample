@@ -1,0 +1,19 @@
+package com.realdolmen.myfirstwebapp;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class PersonService {
+	
+	public void generatePersonlist() {
+		List<Person> list = new ArrayList <Person>(); 
+		list.add(new Person("Nick", new Adress ( "Schelle", "Koekoekstraat", 5), 25));
+		list.add(new Person("erdogan", new Adress ( "reet", "Koekoekstraat", 5), 25));
+		list.add(new Person("wim", new Adress ( "kontich", "Koekoekstraat", 5), 25));
+		list.add(new Person("tom", new Adress ( "aartselaar", "Koekoekstraat", 5), 25));
+		list.add(new Person("bert", new Adress ( "hemiksem", "Koekoekstraat", 5), 25));
+		
+		
+	}
+
+}

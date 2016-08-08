@@ -1,0 +1,36 @@
+package com.realdolmen.myfirstwebapp;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class PersonServlet
+ */
+@WebServlet("/people")
+public class PersonServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+    public PersonServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		PersonService personService = new PersonService();
+		List<Person> list = personService.findAll();
+		RequestDispatcher requestDispatcher = request.getRequestDispatcher("/WEB-INF/people.jsp");
+		request.setAttribute("myList", list);
+		requestDispatcher.forward(request, response);
+		
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	}
+
+}

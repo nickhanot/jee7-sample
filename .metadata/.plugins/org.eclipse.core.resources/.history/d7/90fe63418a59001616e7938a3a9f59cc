@@ -1,0 +1,21 @@
+<%@taglib uri="http://java.sun.com/jstl/core" prefix="c"%>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<div> lijst van personen:</div>
+		
+		<ul>
+		<c:forEach items="${myList}" var="item">
+		<li> person: ${item}
+		</li>
+		</c:forEach>
+
+		</ul>
+
+	
+	
+	</body>
+</html>

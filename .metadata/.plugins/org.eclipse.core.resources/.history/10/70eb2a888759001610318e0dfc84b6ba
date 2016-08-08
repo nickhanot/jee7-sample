@@ -1,0 +1,31 @@
+package com.realdolmen.myfirstwebapp;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class PersonService {
+	
+	public PersonService() {
+		super();
+		this.list = list;
+		generatePersonlist();
+	}
+
+	List<Person> list = new ArrayList <Person>(); 
+	public void generatePersonlist() {
+		
+		list.add(new Person("Nick", new Adress ( "Schelle", "Koekoekstraat", 5), 25));
+		list.add(new Person("erdogan", new Adress ( "reet", "Koekoekstraat", 5), 35));
+		list.add(new Person("wim", new Adress ( "kontich", "Koekoekstraat", 5), 45));
+		list.add(new Person("tom", new Adress ( "aartselaar", "Koekoekstraat", 5), 55));
+		list.add(new Person("bert", new Adress ( "hemiksem", "Koekoekstraat", 5), 65));
+	}
+	
+	public Person findById(int i) {
+		return list.get(i);
+	}
+	
+	public List<Person> findAll() {
+		return list;
+	}
+}

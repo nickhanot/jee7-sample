@@ -1,0 +1,155 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-03 16:59:15.878
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-03 16:59:17.055
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-03 16:59:20.469
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:23:36.372
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:23:37.456
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:23:41.477
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:30:44.881
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:30:45.489
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:30:45.511
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:30:46.580
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:30:50.516
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:32:08.391
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:32:09.241
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:32:16.159
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:32:17.233
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:32:21.138
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:37:52.842
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:37:53.624
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:37:53.639
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:37:54.676
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:37:58.782
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-08-05 16:44:30.039
+!MESSAGE Module my-first-maven-project on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:44:38.686
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:44:39.295
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:44:39.308
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:44:40.355
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:44:43.952
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-08-05 16:44:50.151
+!MESSAGE Module my-first-maven-project on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-08-05 16:47:28.650
+!MESSAGE Module my-first-maven-project on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:47:32.422
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:47:32.956
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:47:32.973
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:47:34.014
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:47:37.232
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-08-05 16:47:48.658
+!MESSAGE Module my-first-maven-project on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-08-05 16:50:23.022
+!MESSAGE Module my-first-maven-project on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-08-05 16:50:43.033
+!MESSAGE Module my-first-maven-project on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:52:15.499
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:52:16.041
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:52:16.057
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:52:17.094
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:52:20.601
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-08-05 16:53:47.797
+!MESSAGE Module my-first-maven-project on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-08-05 16:54:07.811
+!MESSAGE Module my-first-maven-project on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:54:15.752
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:54:16.268
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-08-05 16:54:16.285
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_102 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-08-05 16:54:17.322
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-08-05 16:54:20.728
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-08-05 16:57:00.908
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-08-05 16:57:01.424
+!MESSAGE Server processes have been terminated.

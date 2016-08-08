@@ -1,0 +1,19 @@
+package com.realdolmen.course;
+
+import org.slf4j.*;
+
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	final Logger log = new LoggerFactory.getLogger ();
+    public static void main( String[] args )
+    {
+    	int i=0;
+    	int j;
+        System.out.println( "Hello World!" );
+    }
+}

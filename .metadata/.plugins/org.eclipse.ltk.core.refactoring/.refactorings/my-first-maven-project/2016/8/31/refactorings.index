@@ -1,0 +1,5 @@
+1470406721339	Move 'index.html' to 'WEB-INF'
+1470407638124	Rename resource 'WEB-INF'
+1470407804327	Move 'index.html' to 'webapp'
+1470408810127	Move 'HelloServlet.java' to 'webapp'
+1470408815182	Move 'HelloServlet.java' to 'course'

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<div> lijst van personen:</div>
+		
+		<ul>
+		<li> person: ${person}
+		</ul>
+
+	
+	
+	</body>
+</html>

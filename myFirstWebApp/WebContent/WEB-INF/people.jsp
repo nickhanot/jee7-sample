@@ -1,0 +1,19 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<div> lijst van personen:</div>
+		
+		<c:forEach items="${myList}" var="item">
+		<li> person: ${item.name} is of age ${item.age} with adress  ${item.adress.street} ${item.adress.nr}, ${item.adress.city}
+		
+		</li>
+		</c:forEach>
+
+	
+	
+	</body>
+</html>
